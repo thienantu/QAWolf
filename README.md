@@ -1,3 +1,21 @@
+# Before you execute the file
+
+1. Install node modules by running 'npm i'.
+2. If you encounter '2 high severity vulnerables', then run 'npm audit fix'. You may follow instruction from the prompt.
+3. Install latest playwright by running 'npm install playwright@latest @playwright/test@latest'
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🐺 QA Wolf Take Home Assignment
 
 Welcome to the QA Wolf take home assignment for our [QA Engineer](https://www.task-wolf.com/apply-qae) role! We appreciate your interest and look forward to seeing what you come up with.
